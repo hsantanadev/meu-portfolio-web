@@ -6,7 +6,7 @@ This project was created to present my profile, skills, and learning journey as 
 
 ## 🚀 Live Demo
 
-🔗 https://henrique-s-santana.github.io/portfolio/
+🔗 https://hsantanadev.github.io/portfolio/
 
 ## 📖 About the Project
 
