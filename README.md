@@ -6,7 +6,7 @@ This project was created to present my profile, skills, and learning journey as 
 
 ## 🚀 Live Demo
 
-🔗 https://hsantanadev.github.io/meu-portfolio-web/
+🔗 https://hsantanadev.github.io/Meu-Portfolio-Web/
 
 ## 📖 About the Project
 
